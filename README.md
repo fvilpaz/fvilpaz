@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fvilpaz
 - 👀 I’m interested in ... getting more crypto
-- 🌱 I’m currently learning ...mot losing crypto
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...coding and programming
+- 💞️ I’m looking to collaborate on ...projects to make me improve on my code
+- 📫 How to reach me ...linkedin or X
 
 <!---
 fvilpaz/fvilpaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
