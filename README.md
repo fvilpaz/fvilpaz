@@ -26,11 +26,16 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 - Cybersecurity basics (system hardening, SSH, firewall, user management)
 ##
 
-### 📌 Active Projects
+### 🔨 Active Projects  
 
-- 🔒 Born2BeRoot → VM Linux asegurada (auditd, sudo, firewall)
-- 📚 Libft → Reimplementación de librería estándar C
-- 🛡️ System Administration → Automatización con cron/scripts
+**🔒 Born2BeRoot**  
+→ Secure Linux VM deployment (auditd, sudo hardening, UFW firewall)  
+
+**📚 Libft**  
+→ Custom C standard library reimplementation (42 School project)  
+
+**🛡️ SysAdmin Toolkit**  
+→ Bash automation scripts (cron jobs, log monitoring)  
 
 ---
 
