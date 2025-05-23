@@ -24,11 +24,10 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 - Linux system administration
 - Cybersecurity basics (system hardening, SSH, firewall, user management)
 
-## 📌 Active Projects
-
-🔒 Born2BeRoot → VM Linux asegurada (auditd, sudo, firewall)
-📚 Libft → Reimplementación de librería estándar C
-🛡️ System Administration → Automatización con cron/scripts
+### 📌 Active Projects
+- 🔒 Born2BeRoot → VM Linux asegurada (auditd, sudo, firewall)
+- 📚 Libft → Reimplementación de librería estándar C
+- 🛡️ System Administration → Automatización con cron/scripts
 
 ---
 
