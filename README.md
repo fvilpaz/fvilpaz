@@ -1,40 +1,46 @@
-# 👋 Hi there, I'm @fvilpaz
+# 👋 Hi, I'm Fernando
 
-🎓 I'm currently a student at **42**, focused on low-level programming, system design, and mastering the C language.  
-📚 Planning to take **CS50**, and pursue certifications from **Microsoft** and **AWS** in the future to expand into cloud and backend technologies.  
-🧠 I'm also curious about the world of **blockchain** and **crypto**, and plan to explore it further.
+After more than 20 years of experience in the hospitality industry, I made a bold decision to completely change my life and dive into the world of programming.
 
----
-
-### 👀 Interests
-
-- Systems programming (C, Unix)
-- Clean code and software fundamentals
-- Exploring blockchain and decentralized technologies
+I'm currently studying at 42, where I'm building a solid foundation in low-level programming: C language, shell scripting, Git, and operating system fundamentals.
 
 ---
 
-### 🌱 Currently learning
+## 🎯 Why me?
 
-- Core programming (C, Shell scripting)
-- Version control with Git
-- Operating system concepts and memory management
+- 🛫 I emigrated alone at the age of 18, gaining resilience, courage, and a strong work ethic.
+- 🌍 I speak multiple languages and adapt quickly to demanding international environments.
+- 🧠 I bring years of real-life experience managing high-pressure situations, teamwork, and customer relations.
+- 🔄 I'm not afraid to start over or fail—I'm here to learn and grow every day.
 
 ---
 
-### 🤝 Looking to collaborate on
+## 💻 Technically speaking...
 
+### Currently learning:
+- C programming (memory, pointers, Makefiles, system calls)
+- Shell scripting
+- Git & GitHub
+- Linux system administration (Born2beroot)
+
+### Interested in:
+- Backend development and distributed systems
+- Clean, maintainable code and software design fundamentals
+- Cloud technologies (AWS), networking, and databases
+- Blockchain (as a personal curiosity)
+
+---
+
+## 🤝 Looking to collaborate on:
 - Educational or beginner-friendly open-source projects
 - Anything that helps sharpen my skills and learn from others
 
 ---
 
-### 📫 Reach me
-
-- 💼 [LinkedIn](https://es.linkedin.com/in/fernando-vilas-paz-1626901a9)
-
----
-
+## 📫 Let's connect:
+- 💼 [LinkedIn](https://www.linkedin.com/in/fvilpaz)
+  
+  
 ### 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
@@ -44,3 +50,4 @@
 ---
 
 > _"I  believe in learning by doing — failing fast and improving faster. After all, sometimes you win, other times you learn."_
+
