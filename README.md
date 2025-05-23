@@ -28,14 +28,9 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 
 ### 🔨 Active Projects  
 
-**🔒 Born2BeRoot**  
-→ Secure Linux VM deployment (auditd, sudo hardening, UFW firewall)  
-
-**📚 Libft**  
-→ Custom C standard library reimplementation (42 School project)  
-
-**🛡️ SysAdmin Toolkit**  
-→ Bash automation scripts (cron jobs, log monitoring)  
+- 🔒 Born2BeRoot → Secure Linux VM deployment (auditd, sudo hardening, UFW firewall)  
+- 📚 Libft → Custom C standard library reimplementation (42 School project)  
+- 🛡️ SysAdmin Toolkit** → Bash automation scripts (cron jobs, log monitoring)  
 
 ---
 
