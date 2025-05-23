@@ -24,7 +24,7 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 - Git & GitHub
 - Linux system administration
 - Cybersecurity basics (system hardening, SSH, firewall, user management)
-
+##
 
 ### 📌 Active Projects
 
