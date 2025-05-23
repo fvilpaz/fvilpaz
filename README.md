@@ -8,8 +8,8 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 
 ## 🎯 Why me?
 
-- 🛫 I emigrated alone at the age of 18, gaining resilience, courage, and a strong work ethic.
-- 🌍 I speak multiple languages and adapt quickly to demanding international environments.
+- 🛫 I emigrated alone at the age of 19, gaining resilience, courage, and a strong work ethic.
+- 🌍 I speak several languages and adapt quickly to demanding international environments.
 - 🧠 I bring years of real-life experience managing high-pressure situations, teamwork, and customer relations.
 - 🔄 I'm not afraid to start over or fail—I'm here to learn and grow every day.
 
@@ -21,12 +21,15 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 - C programming (memory, pointers, Makefiles, system calls)
 - Shell scripting
 - Git & GitHub
-- Linux system administration (Born2beroot)
+- Linux system administration
+- Cybersecurity basics (system hardening, SSH, firewall, user management)
 
 ### Interested in:
 - Backend development and distributed systems
-- Clean, maintainable code and software design fundamentals
+- Clean, maintainable code and solid software design
 - Cloud technologies (AWS), networking, and databases
+- Cybersecurity & ethical hacking
+- DevOps tools and workflows (CI/CD, Docker, system monitoring)
 - Blockchain (as a personal curiosity)
 
 ---
