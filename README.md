@@ -28,9 +28,35 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 
 ### 🔨 Active Projects  
 
-- 🔒 Born2BeRoot -> Secure Linux VM deployment (auditd, sudo hardening, UFW firewall)  
-- 📚 Libft -> Custom C standard library reimplementation (42 School project)  
-- 🛡️ SysAdmin Toolkit -> Bash automation scripts (cron jobs, log monitoring)  
+- 🔒 Born2BeRoot
+   - Secure Linux VM Deployment
+   - System hardening with auditd for advanced monitoring.
+   - Secure sudoers configuration & password policies.
+   - UFW firewall rules & disabling unnecessary services.
+   - Skills: Linux security, system administration, compliance (42 guidelines).
+
+- 📚 Libft
+    -   C Standard Library Reimplementation (42 Project)
+    -   Built-from-scratch functions (ft_memcpy, ft_strlen, ft_atoi, etc.).
+    -   Static/dynamic memory management & performance optimization.
+    -   Skills: C programming, algorithms, debugging, Makefile.
+
+- 🛡️ SysAdmin Toolkit
+    -   Bash Automation Scripts
+    -   Log monitoring scripts (/var/log) with alert systems.
+    -   Automated cron job setup for maintenance tasks.
+    -   Skills: Bash scripting, cron, server administration.
+
+- 🖨️ Ft_printf 
+    -   printf Reimplementation in C
+    -   Format parsing (%d, %s, %x) using variadic functions.
+    -   Edge-case handling & rigorous testing.
+    -   Skills: Advanced C, memory manipulation.
+
+- 📖 Get_Next_Line (In Progress)
+    -   Line-by-Line File Reading in C
+    -   Static buffer optimization to minimize read() syscalls.
+    -   Memory leak prevention (Valgrind).
 
 ---
 
