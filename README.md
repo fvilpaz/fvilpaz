@@ -26,6 +26,8 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 - Cybersecurity basics (system hardening, SSH, firewall, user management)
 
 ---
+---
+***
 
 ### 🛠️ Practical Experience:
 
@@ -36,7 +38,7 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Automated cron job setup for maintenance tasks.
     -   Skills: Bash scripting, cron, server administration.
 
----
+___
 
 ### 🔨 Active Projects  
 
