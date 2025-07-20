@@ -70,7 +70,7 @@ ___
     -   Line-by-Line File Reading in C
     -   Static buffer optimization to minimize read() syscalls.
     -   Memory leak prevention (Valgrind).
-##
+---
 
 - 🎮 so_long (in progress) 🚧
 
@@ -81,7 +81,8 @@ ___
     -   Collectibles & exit logic validation (flood fill).
 
     -   Skills: C, game loop design, event handling, graphics.
-##
+
+---
 
 - 📨 mini_talk (in progress) 🚧
 
@@ -92,7 +93,8 @@ ___
     -   Signal synchronization & error handling.
 
     -   Skills: C, IPC, signal handling, bitwise operations.
-##
+
+---
 
 - 🧮 push_swap (in progress) 🚧
 
