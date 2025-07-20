@@ -24,7 +24,8 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 - Git & GitHub
 - Linux system administration
 - Cybersecurity basics (system hardening, SSH, firewall, user management)
-##
+
+---
 
 ### 🛠️ Practical Experience:
 
@@ -34,7 +35,8 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Log monitoring scripts (/var/log) with alert systems.
     -   Automated cron job setup for maintenance tasks.
     -   Skills: Bash scripting, cron, server administration.
-##
+
+---
 
 ### 🔨 Active Projects  
 
@@ -45,7 +47,7 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
    - Secure sudoers configuration & password policies.
    - UFW firewall rules & disabling unnecessary services.
    - Skills: Linux security, system administration, compliance (42 guidelines).
-
+##
 
 - 📚 Libft ✅
 
@@ -53,7 +55,7 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Built-from-scratch functions (ft_memcpy, ft_strlen, ft_atoi, etc.).
     -   Static/dynamic memory management & performance optimization.
     -   Skills: C programming, algorithms, debugging, Makefile.
-
+##
 
 - 🖨️ Ft_printf ✅
 
@@ -61,14 +63,14 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Format parsing (%d, %s, %x) using variadic functions.
     -   Edge-case handling & rigorous testing.
     -   Skills: Advanced C, memory manipulation.
-
+##
 
 - 📖 Get_Next_Line ✅
 
     -   Line-by-Line File Reading in C
     -   Static buffer optimization to minimize read() syscalls.
     -   Memory leak prevention (Valgrind).
-
+##
 
 - 🎮 so_long (in progress) 🚧
 
@@ -79,7 +81,7 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Collectibles & exit logic validation (flood fill).
 
     -   Skills: C, game loop design, event handling, graphics.
-
+##
 
 - 📨 mini_talk (in progress) 🚧
 
@@ -90,7 +92,7 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Signal synchronization & error handling.
 
     -   Skills: C, IPC, signal handling, bitwise operations.
-
+##
 
 - 🧮 push_swap (in progress) 🚧
 
