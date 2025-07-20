@@ -53,10 +53,32 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Edge-case handling & rigorous testing.
     -   Skills: Advanced C, memory manipulation.
 
-- 📖 Get_Next_Line (In Progress)
+- 📖 Get_Next_Line
     -   Line-by-Line File Reading in C
     -   Static buffer optimization to minimize read() syscalls.
     -   Memory leak prevention (Valgrind).
+
+- 📨 mini_talk (in progress)
+
+    -   Client-Server Communication using UNIX Signals
+
+    -   Bitwise message encoding/decoding (SIGUSR1, SIGUSR2)
+
+    -   Signal synchronization & error handling.
+
+    -   Skills: C, IPC, signal handling, bitwise operations.
+
+
+- 🧮 push_swap (in progress)
+
+    -   Stack-based Sorting Algorithm Challenge
+
+    -   Limited instruction set (sa, pb, rrr, etc.)
+
+    -   Optimized sort strategy with minimal operations.
+
+    -   Skills: Algorithms, data structures, performance optimization, recursion.
+
 
 ---
 
