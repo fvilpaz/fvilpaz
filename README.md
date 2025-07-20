@@ -33,6 +33,7 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Log monitoring scripts (/var/log) with alert systems.
     -   Automated cron job setup for maintenance tasks.
     -   Skills: Bash scripting, cron, server administration.
+##
 
 ### 🔨 Active Projects  
 
