@@ -63,14 +63,16 @@ ___
     -   Format parsing (%d, %s, %x) using variadic functions.
     -   Edge-case handling & rigorous testing.
     -   Skills: Advanced C, memory manipulation.
-##
+
+***
 
 - 📖 Get_Next_Line ✅
 
     -   Line-by-Line File Reading in C
     -   Static buffer optimization to minimize read() syscalls.
     -   Memory leak prevention (Valgrind).
----
+
+___
 
 - 🎮 so_long (in progress) 🚧
 
@@ -82,7 +84,7 @@ ___
 
     -   Skills: C, game loop design, event handling, graphics.
 
----
+##
 
 - 📨 mini_talk (in progress) 🚧
 
@@ -94,7 +96,7 @@ ___
 
     -   Skills: C, IPC, signal handling, bitwise operations.
 
----
+##
 
 - 🧮 push_swap (in progress) 🚧
 
