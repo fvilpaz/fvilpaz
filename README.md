@@ -26,6 +26,14 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 - Cybersecurity basics (system hardening, SSH, firewall, user management)
 ##
 
+### 🛠️ Practical Experience:
+
+- 🛡️ SysAdmin Toolkit
+    -   Bash Automation Scripts
+    -   Log monitoring scripts (/var/log) with alert systems.
+    -   Automated cron job setup for maintenance tasks.
+    -   Skills: Bash scripting, cron, server administration.
+
 ### 🔨 Active Projects  
 
 - 🔒 Born2BeRoot ✅
@@ -40,12 +48,6 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Built-from-scratch functions (ft_memcpy, ft_strlen, ft_atoi, etc.).
     -   Static/dynamic memory management & performance optimization.
     -   Skills: C programming, algorithms, debugging, Makefile.
-
-- 🛡️ SysAdmin Toolkit
-    -   Bash Automation Scripts
-    -   Log monitoring scripts (/var/log) with alert systems.
-    -   Automated cron job setup for maintenance tasks.
-    -   Skills: Bash scripting, cron, server administration.
 
 - 🖨️ Ft_printf ✅
     -   printf Reimplementation in C
