@@ -47,6 +47,7 @@ ___
    - Secure sudoers configuration & password policies.
    - UFW firewall rules & disabling unnecessary services.
    - Skills: Linux security, system administration, compliance (42 guidelines).
+
 ##
 
 - 📚 Libft ✅
@@ -55,6 +56,7 @@ ___
     -   Built-from-scratch functions (ft_memcpy, ft_strlen, ft_atoi, etc.).
     -   Static/dynamic memory management & performance optimization.
     -   Skills: C programming, algorithms, debugging, Makefile.
+
 ##
 
 - 🖨️ Ft_printf ✅
@@ -64,7 +66,7 @@ ___
     -   Edge-case handling & rigorous testing.
     -   Skills: Advanced C, memory manipulation.
 
-***
+##
 
 - 📖 Get_Next_Line ✅
 
@@ -72,7 +74,7 @@ ___
     -   Static buffer optimization to minimize read() syscalls.
     -   Memory leak prevention (Valgrind).
 
-___
+##
 
 - 🎮 so_long (in progress) 🚧
 
