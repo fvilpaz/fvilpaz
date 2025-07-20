@@ -28,14 +28,14 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
 
 ### 🔨 Active Projects  
 
-- 🔒 Born2BeRoot
+- 🔒 Born2BeRoot ✅
    - Secure Linux VM Deployment
    - System hardening with auditd for advanced monitoring.
    - Secure sudoers configuration & password policies.
    - UFW firewall rules & disabling unnecessary services.
    - Skills: Linux security, system administration, compliance (42 guidelines).
 
-- 📚 Libft
+- 📚 Libft ✅
     -   C Standard Library Reimplementation (42 Project)
     -   Built-from-scratch functions (ft_memcpy, ft_strlen, ft_atoi, etc.).
     -   Static/dynamic memory management & performance optimization.
@@ -47,7 +47,7 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Automated cron job setup for maintenance tasks.
     -   Skills: Bash scripting, cron, server administration.
 
-- 🖨️ Ft_printf 
+- 🖨️ Ft_printf ✅
     -   printf Reimplementation in C
     -   Format parsing (%d, %s, %x) using variadic functions.
     -   Edge-case handling & rigorous testing.
@@ -58,7 +58,17 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Static buffer optimization to minimize read() syscalls.
     -   Memory leak prevention (Valgrind).
 
-- 📨 mini_talk (in progress)
+- 🎮 so_long (in progress) 🚧
+
+    -   2D Game using MiniLibX (graphical library)
+
+    -   Map parsing, player/enemy movement & collision detection.
+
+    -   Collectibles & exit logic validation (flood fill).
+
+    -   Skills: C, game loop design, event handling, graphics.
+
+- 📨 mini_talk (in progress) 🚧
 
     -   Client-Server Communication using UNIX Signals
 
@@ -69,7 +79,7 @@ I'm currently studying at 42, where I'm building a solid foundation in low-level
     -   Skills: C, IPC, signal handling, bitwise operations.
 
 
-- 🧮 push_swap (in progress)
+- 🧮 push_swap (in progress) 🚧
 
     -   Stack-based Sorting Algorithm Challenge
 
