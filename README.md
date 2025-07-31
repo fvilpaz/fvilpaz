@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="./matrix/matrix_banner.gif" width="100%">
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fvilpaz/fvilpaz/main/assets/matrix_banner.gif" alt="Matrix Banner" />
+</p>
 
 <p align="center">
   <a href="https://github.com/fvilpaz">
