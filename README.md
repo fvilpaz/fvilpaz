@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/fvilpaz">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&color=58A6FF&center=true&vCenter=true&width=1500&duration=3000&pause=2500&repeat=false&lines=%22HELLO%2C+WORLD%22;+//+FROM+HOSPITALITY+TO+LOW-LEVEL+CODING;+//+INSPIRED+BY+OCEANO+https%3A%2F%2Fmedium.com%2F%40jalal92);+//+DAVID+J.+MALAN+(https%3A%2F%2Fcs.harvard.edu%2Fmalan);+//+42+STUDENTS+-+THE+BEST+TEACHERS,+THE+BEST+COMPANIONS"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&color=58A6FF&center=true&vCenter=true&width=1500&duration=3000&pause=2500&repeat=false&lines=%22HELLO%2C+WORLD%22;+//+FROM+HOSPITALITY+TO+LOW-LEVEL+CODING;+//+INSPIRED+BY+OCEANO+https%3A%2F%2Fmedium.com%2F%40jalal92);+//+DAVID+J.+MALAN+(https%3A%2F%2Fcs.harvard.edu%2Fmalan);+//+42+STUDENTS+-+THE+BEST+TEACHERS,+THE+BEST+COMPANIONS"
       alt="Fernando Vilas Paz - 42 Málaga"
     />
   </a>
@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm Fernando
 
-After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I’m now a full-time student at [42 Málaga](https://42malaga.com), where I’m building solid foundations in low-level programming, system administration, and cybersecurity.
+After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I’m now a full-time student at [42 Málaga](https://42malaga.com), where I’m building solid foundations in low-level programming, cybersecurity and system administration.
 
 > _"Sometimes you win, other times you learn."_
 > I believe in learning by doing — failing fast and improving faster.
