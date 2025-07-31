@@ -1,145 +1,81 @@
+<p align="center">
+  <a href="https://github.com/fvilpaz">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&color=58A6FF&center=true&vCenter=true&width=1500&duration=3000&pause=2500&repeat=false&lines=%22HELLO%2C+WORLD%22;+//+FROM+HOSPITALITY+TO+LOW-LEVEL+CODING;+//+INSPIRED+BY+OCEANO+https%3A%2F%2Fmedium.com%2F%40jalal92);+//+DAVID+J.+MALAN+(https%3A%2F%2Fcs.harvard.edu%2Fmalan);+//+42+STUDENTS+-+THE+BEST+TEACHERS,+THE+BEST+COMPANIONS"
+      alt="Fernando Vilas Paz - 42 Málaga"
+    />
+  </a>
+</p>
+
 # 👋 Hi, I'm Fernando
 
-After more than 20 years of experience in the hospitality industry, I made a bold decision to completely change my life and dive into the world of programming.
+After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I’m now a full-time student at [42 Málaga](https://42malaga.com), where I’m building solid foundations in low-level programming, system administration, and cybersecurity.
 
-I'm currently studying at 42, where I'm building a solid foundation in low-level programming: C language, shell scripting, Git, and operating system fundamentals.
-
----
-
-## 🎯 Why me?
-
-- 🛫 I emigrated alone at the age of 19, gaining resilience, courage, and a strong work ethic.
-- 🌍 I speak several languages and adapt quickly to demanding international environments.
-- 🧠 I bring years of real-life experience managing high-pressure situations, teamwork, and customer relations.
-- 🔄 I'm not afraid to start over or fail—I'm here to learn and grow every day.
+> _"Sometimes you win, other times you learn."_
+> I believe in learning by doing — failing fast and improving faster.
 
 ---
 
-## 💻 Technically speaking...
+## 🎯 Why Me?
 
-### 🎓 Currently learning:
-
-- C programming (memory, pointers, Makefiles, system calls)
-- Shell scripting
-- Git & GitHub
-- Linux system administration
-- Cybersecurity basics (system hardening, SSH, firewall, user management)
+- 🛫 Emigrated alone at 19 — resilience, independence, and strong work ethic. 
+- 🌍 Multilingual and adaptable to fast-paced, international environments.
+- 🧠 Real-world experience managing high-pressure teams and customer-facing situations.
+- 🔄 Not afraid to start over — I'm committed to lifelong learning and reinvention.
 
 ---
 
-### 🛠️ Practical Experience:
+## 💻 Currently Learning
 
-- 🛡️ SysAdmin Toolkit
-
-    -   Bash Automation Scripts
-    -   Log monitoring scripts (/var/log) with alert systems.
-    -   Automated cron job setup for maintenance tasks.
-    -   Skills: Bash scripting, cron, server administration.
-
-___
-
-### 🔨 Active Projects  
-
-- 🔒 Born2BeRoot ✅
-
-   - Secure Linux VM Deployment
-   - System hardening with auditd for advanced monitoring.
-   - Secure sudoers configuration & password policies.
-   - UFW firewall rules & disabling unnecessary services.
-   - Skills: Linux security, system administration, compliance (42 guidelines).
-
-##
-
-- 📚 Libft ✅
-
-    -   C Standard Library Reimplementation (42 Project)
-    -   Built-from-scratch functions (ft_memcpy, ft_strlen, ft_atoi, etc.).
-    -   Static/dynamic memory management & performance optimization.
-    -   Skills: C programming, algorithms, debugging, Makefile.
-
-##
-
-- 🖨️ Ft_printf ✅
-
-    -   printf Reimplementation in C
-    -   Format parsing (%d, %s, %x) using variadic functions.
-    -   Edge-case handling & rigorous testing.
-    -   Skills: Advanced C, memory manipulation.
-
-##
-
-- 📖 Get_Next_Line ✅
-
-    -   Line-by-Line File Reading in C
-    -   Static buffer optimization to minimize read() syscalls.
-    -   Memory leak prevention (Valgrind).
-
-##
-
-- 🎮 so_long (in progress) 🚧
-
-    -   2D Game using MiniLibX (graphical library)
-
-    -   Map parsing, player/enemy movement & collision detection.
-
-    -   Collectibles & exit logic validation (flood fill).
-
-    -   Skills: C, game loop design, event handling, graphics.
-
-##
-
-- 📨 mini_talk (in progress) 🚧
-
-    -   Client-Server Communication using UNIX Signals
-
-    -   Bitwise message encoding/decoding (SIGUSR1, SIGUSR2)
-
-    -   Signal synchronization & error handling.
-
-    -   Skills: C, IPC, signal handling, bitwise operations.
-
-##
-
-- 🧮 push_swap (in progress) 🚧
-
-    -   Stack-based Sorting Algorithm Challenge
-
-    -   Limited instruction set (sa, pb, rrr, etc.)
-
-    -   Optimized sort strategy with minimal operations.
-
-    -   Skills: Algorithms, data structures, performance optimization, recursion.
-
+- C programming (memory management, pointers, Makefiles, system calls)
+- Bash scripting and automation
+- Git & GitHub workflows
+- Linux system administration (UFW, SSH, auditd, cron)
+- Cybersecurity basics and system hardening
 
 ---
 
-### Interested in:
-- Backend development and distributed systems
-- Clean, maintainable code and solid software design
-- Cloud technologies (AWS), networking, and databases
-- Cybersecurity & ethical hacking
-- DevOps tools and workflows (CI/CD, Docker, system monitoring)
-- Blockchain (as a personal curiosity)
+## 🔨 Projects & Challenges
+
+- ✅ **Born2BeRoot** – Hardened Linux VM: auditd, firewall (UFW), secure sudoers.
+- ✅ **libft** – C standard library functions built from scratch.
+- ✅ **ft_printf** – Custom printf using variadic functions & format parsing.
+- ✅ **get_next_line** – Efficient file reader using static buffers.
+- 🚧 **so_long** – 2D game: map parsing, enemy movement, flood fill.
+- 🚧 **mini_talk** – Client-server communication using UNIX signals.
+- 🚧 **push_swap** – Stack-based sorting with optimized instructions.
 
 ---
 
-## 🤝 Looking to collaborate on:
-- Educational or beginner-friendly open-source projects
-- Anything that helps sharpen my skills and learn from others
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![42 Málaga](https://img.shields.io/badge/42_Málaga-000000?style=for-the-badge&logo=42&logoColor=white)
 
 ---
 
-## 📫 Let's connect:
+## 📊 GitHub Stats
+
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fvilpaz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvilpaz&layout=compact&theme=radical)
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Educational or beginner-friendly open source projects
+- Shell scripting, system automation, and C-based tools
+- Anything that helps me sharpen my skills while learning from others
+
+---
+
+## 📫 Let’s Connect
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/fvilpaz)
-  
-  
-### 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+- 📧 fvilpaz@gmail.com
 
 ---
-
-> _"I  believe in learning by doing — failing fast and improving faster. After all, sometimes you win, other times you learn."_
-
