@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/fvilpaz">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%22HELLO%2C+WORLD%22;+FROM+HOSPITALITY+TO+LOW-LEVEL+LANGUAGE;+INSPIRED+BY+DAVID+J.+MALAN:+%22THIS+IS+CS50!!%22+%F0%9F%8C%9F;+%F0%9F%8E%93+https%3A%2F%2Fcs.harvard.edu%2Fmalan;+OCEANO:+%22OK,LET'S+SEE+MY+FRIEND!!%22+%F0%9F%98%8E;+%F0%9F%94%97+https%3A%2F%2Fmedium.com%2F%40jalal92;+%F0%9F%A4%B7+42+STUDENTS:+%22IT'S+UP+TO+YOU!!%22;+%E2%9C%A8+THE+BEST+TEACHERS,+BETTER+COMPANIONS!!;+%F0%9F%94%A5+42+M%C3%81LAGA%3A+%22LEARN%2C+BUILD%2C+INSPIRE...!!%22"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%22HELLO%2C+WORLD%22;+FROM+HOSPITALITY+TO+LOW-LEVEL+LANGUAGE;+INSPIRED+BY+DAVID+J.+MALAN:+%22THIS+IS+CS50!!%22+%F0%9F%8C%9F;+%F0%9F%8E%93+https%3A%2F%2Fcs.harvard.edu%2Fmalan;+OCEANO:+%22OK,+LET'S+SEE+MY+FRIEND!!%22+%F0%9F%98%8E;+%F0%9F%94%97+https%3A%2F%2Fmedium.com%2F%40jalal92;+%F0%9F%A4%B7+42+STUDENTS:+%22IT'S+UP+TO+YOU!!%22;+%E2%9C%A8+THE+BEST+TEACHERS,+BETTER+COMPANIONS!!;+%F0%9F%94%A5+42+M%C3%81LAGA%3A+%22LEARN%2C+BUILD%2C+INSPIRE...!!%22"
       alt="Fernando Vilas Paz - 42 Málaga"
     />
   </a>
