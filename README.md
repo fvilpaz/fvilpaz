@@ -3,12 +3,27 @@
   <img src="https://raw.githubusercontent.com/fvilpaz/fvilpaz/main/assets/matrix_effect.gif" alt="Matrix Banner" width="1000"/>
 </p>
 
-<!-- Typing effect banner -->
 <p align="center">
-  <a href="https://github.com/fvilpaz">
+  <a href="https://github.com/fvilpaz" style="text-decoration:none;">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=31&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%22HELLO%2C+WORLD%22;+FROM+HOSPITALITY+TO+LOW-LEVEL+LANGUAGE;+INSPIRED+BY+OCEANO+|+https%3A%2F%2Fmedium.com%2F%40jalal92;+DAVID+J.+MALAN+|+https%3A%2F%2Fcs.harvard.edu%2Fmalan;++42+STUDENTS+|+THE+BEST+TEACHERS+|+BETTER+COMPANIONS"
-      alt="Fernando Vilas Paz - 42 Málaga"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=31&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%22HELLO%2C+WORLD%22"
+      alt="Hello World"
+    /><br/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=31&color=FFC300&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=FROM+HOSPITALITY+TO+LOW-LEVEL+LANGUAGE"
+      alt="From hospitality to low-level language"
+    /><br/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=31&color=28A745&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=INSPIRED+BY+OCEANO+%7C+https%3A%2F%2Fmedium.com%2F%40jalal92"
+      alt="Inspired by Oceano"
+    /><br/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=31&color=8A2BE2&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=DAVID+J.+MALAN+%7C+https%3A%2F%2Fcs.harvard.edu%2Fmalan"
+      alt="David J. Malan"
+    /><br/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=31&color=FF7F50&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=42+STUDENTS+%7C+THE+BEST+TEACHERS+%7C+BETTER+COMPANIONS"
+      alt="42 Students"
     />
   </a>
 </p>
