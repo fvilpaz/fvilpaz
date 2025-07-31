@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/fvilpaz">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=31&color=FFFF00&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%22HELLO%2C+WORLD%22;+FROM+HOSPITALITY+TO+LOW-LEVEL+LANGUAGE;+INSPIRED+BY+OCEANO+|+https%3A%2F%2Fmedium.com%2F%40jalal92;+DAVID+J.+MALAN+|+https%3A%2F%2Fcs.harvard.edu%2Fmalan;++42+STUDENTS+|+THE+BEST+TEACHERS+|+BETTER+COMPANIONS"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=31&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%22HELLO%2C+WORLD%22;+FROM+HOSPITALITY+TO+LOW-LEVEL+LANGUAGE;+INSPIRED+BY+OCEANO+|+https%3A%2F%2Fmedium.com%2F%40jalal92;+DAVID+J.+MALAN+|+https%3A%2F%2Fcs.harvard.edu%2Fmalan;++42+STUDENTS+%E2%9C%A8+THE+BEST+TEACHERS+%E2%9C%A8+BETTER+COMPANIONS"
       alt="Fernando Vilas Paz - 42 Málaga"
     />
   </a>
