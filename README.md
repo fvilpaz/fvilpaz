@@ -23,7 +23,7 @@ After more than 20 years in the hospitality industry, I made a bold decision to 
 
 ---
 
-## 🎯 Why Me?
+## 🎯 My Profile
 
 - 🛫 Emigrated alone at 19 — resilience, independence, and strong work ethic. 
 - 🌍 Multilingual and adaptable to fast-paced, international environments.
