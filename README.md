@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/fvilpaz">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%22HELLO%2C+WORLD%22;+IT%27S+ME%2C+JUST+REBORN...;+WRITING+CODE%2C+REWRITING+MY+STORY!!;+INSPIRED+BY+DAVID+J.+MALAN:+%22THIS+IS+CS50!!%22+%F0%9F%8C%9F;+%F0%9F%8E%93+https%3A%2F%2Fcs.harvard.edu%2Fmalan;+%F0%9F%94%97+OCEANO:+https%3A%2F%2Fmedium.com%2F%40jalal92;+42+STUDENTS+%22IT+IS+UP+TO+YOU%22++%F0%9F%A4%B7;+%E2%9C%A8+THE+BEST+TEACHERS,+BETTER+COMPANIONS!!;+%F0%9F%94%A5+42+M%C3%81LAGA%3A+%22LEARN%2C+BUILD%2C+INSPIRE...!!%22"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=FT_PUTSTR(%22HELLO%2C+WORLD%22);+IT%27S+ME%2C+JUST+REBORN...;+%F0%9F%A7%A0+WRITING+CODE%2C+REBOOTING+MY+STORY!!;+%F0%9F%8C%9F+INSPIRED+BY+DAVID+J.+MALAN+;+%F0%9F%8E%93+https%3A%2F%2Fcs.harvard.edu%2Fmalan;+%F0%9F%A7%AD+GUIDED+BY+OCEANO;+%F0%9F%94%97+https%3A%2F%2Fmedium.com%2F%40jalal92;+%F0%9F%A4%94+%22IT%27S+UP+TO+US,+42+STUDENTS%22+%F0%9F%A4%B7;+%E2%9C%A8+YOU+ARE+THE+BEST+TEACHERS;%F0%9F%9A%80+AND+BETTER+COMPANIONS!!;+%F0%9F%94%A5+42+M%C3%81LAGA%3A+%22LEARN,+BUILD,+INSPIRE...!!%22"
       alt="Fernando Vilas Paz - 42 Málaga"
     />
   </a>
