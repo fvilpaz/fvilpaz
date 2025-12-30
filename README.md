@@ -7,15 +7,13 @@
 <p align="center">
   <a href="https://github.com/fvilpaz">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%F0%9F%91%8B%20%22HELLO%2C+WORLD%22;+IT%27S+ME%2C+JUST+REBORN...;+%F0%9F%A7%A0+WRITING+CODE%2C+REBOOTING+MY+STORY!!;+%F0%9F%94%A5+42+M%C3%81LAGA%3A+%22LEARN,+BUILD,+INSPIRE...!!%22"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&color=58A6FF&center=true&vCenter=true&width=1000&duration=3500&pause=2000&repeat=true&lines=%F0%9F%91%8B+HELLO%2C+WORLD!;IT%27S+ME%2C+JUST+REBORN...%F0%9F%94%A5;FROM+HOSPITALITY+TO+TECH;%F0%9F%A7%A0+CODING+MY+FUTURE,+REBOOTING+MY+STORY!!;42+M%C3%81LAGA%3A+LEARN,+BUILD,+INSPIRE!!+%F0%9F%9A%80"
       alt="Fernando Vilas Paz - 42 Málaga"
     />
   </a>
 </p>
 
-
-
-# Fernando Vilas Paz
+# **VILAS PAZ, Fernando**
 
 After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I’m now a full-time student at [42 Málaga](https://42malaga.com), where I’m building solid foundations in low-level programming, cybersecurity, and system administration.
 
@@ -31,15 +29,15 @@ Interactive training platform for a Michelin-star restaurant team.
 Built to centralize menu knowledge, allergens, quizzes and internal certification.  
 Built with vanilla HTML, CSS and JavaScript, focused on usability and real-world constraints.
 
-- **🍽️ Live demo:** https://fvilpaz.github.io/N_Canitas/
-- **📦 Repository:** https://github.com/fvilpaz/N_Canitas
+- 🍽️ **[View Live demo](https://fvilpaz.github.io/N_Canitas/)**
+- 📦 **[Check Code](https://github.com/fvilpaz/N_Canitas)**
 
 ---
 ## 💡 Inspirations & Mentors
 
 I wouldn't be here without the guidance of world-class educators and the community:
-- 🎓 **David J. Malan:** For the foundations of [CS50 Harvard](cs.harvard.edu).
-- 🧠 **Oceano:** For the deep-dives into 42's logic and [system mindset](medium.com).
+- 🎓 **David J. Malan:** For the foundations of [CS50 Harvard](https://cs.harvard.edu/malan/).
+- 🧠 **Oceano:** For the deep-dives into 42's logic and [system mindset](https://www.youtube.com/@onaecO).
 - 👥 **42 Community:** For teaching me that the best way to learn is to help others.
 
 ---
