@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/fvilpaz">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%F0%9F%91%8B%20%22HELLO%2C+WORLD%22;+IT%27S+ME%2C+JUST+REBORN...;+%F0%9F%A7%A0+WRITING+CODE%2C+REBOOTING+MY+STORY!!;+%F0%9F%8C%9F+INSPIRED+BY+DAVID+J.+MALAN+;+%F0%9F%8E%93+https%3A%2F%2Fcs.harvard.edu%2Fmalan;+%F0%9F%A7%AD+GUIDED+BY+OCEANO;+%F0%9F%94%97+https%3A%2F%2Fmedium.com%2F%40jalal92;+%F0%9F%A4%94+%22IT%27S+UP+TO+US,+42+STUDENTS%22+%F0%9F%A4%B7;+%E2%9C%A8+YOU+ARE+THE+BEST+TEACHERS;%F0%9F%9A%80+AND+BETTER+COMPANIONS!!;+%F0%9F%94%A5+42+M%C3%81LAGA%3A+%22LEARN,+BUILD,+INSPIRE...!!%22"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&color=58A6FF&center=true&vCenter=true&width=1000&duration=3000&pause=3000&repeat=false&lines=%F0%9F%91%8B%20%22HELLO%2C+WORLD%22;+IT%27S+ME%2C+JUST+REBORN...;+%F0%9F%A7%A0+WRITING+CODE%2C+REBOOTING+MY+STORY!!;+%F0%9F%94%A5+42+M%C3%81LAGA%3A+%22LEARN,+BUILD,+INSPIRE...!!%22"
       alt="Fernando Vilas Paz - 42 Málaga"
     />
   </a>
@@ -33,6 +33,14 @@ Built with vanilla HTML, CSS and JavaScript, focused on usability and real-world
 
 - **🍽️ Live demo:** https://fvilpaz.github.io/N_Canitas/
 - **📦 Repository:** https://github.com/fvilpaz/N_Canitas
+
+---
+## 💡 Inspirations & Mentors
+
+I wouldn't be here without the guidance of world-class educators and the community:
+- 🎓 **David J. Malan:** For the foundations of [CS50 Harvard](cs.harvard.edu).
+- 🧠 **Oceano:** For the deep-dives into 42's logic and [system mindset](medium.com).
+- 👥 **42 Community:** For teaching me that the best way to learn is to help others.
 
 ---
 ## 🎯 My Profile
@@ -68,11 +76,14 @@ Built with vanilla HTML, CSS and JavaScript, focused on usability and real-world
 
 ## 🛠️ Tech Stack
 
+**Languages & Tools**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Environment & Dev**  
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![42 Málaga](https://img.shields.io/badge/42_Málaga-000000?style=for-the-badge&logo=42&logoColor=white)
 
 ---
