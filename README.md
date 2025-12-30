@@ -31,8 +31,8 @@ Interactive training platform for a Michelin-star restaurant team.
 Built to centralize menu knowledge, allergens, quizzes and internal certification.  
 Built with vanilla HTML, CSS and JavaScript, focused on usability and real-world constraints.
 
-🔗 Live demo: https://fvilpaz.github.io/N_Canitas/
-🔗 Repository: https://github.com/fvilpaz/N_Canitas
+- **🍽️ Live demo:** https://fvilpaz.github.io/N_Canitas/
+- **📦 Repository:** https://github.com/fvilpaz/N_Canitas
 
 ---
 ## 🎯 My Profile
