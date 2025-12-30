@@ -24,6 +24,17 @@ After more than 20 years in the hospitality industry, I made a bold decision to 
 
 ---
 
+## ⭐ Featured Project
+
+### 👨‍🍳 Cañitas Maite · Interactive Training Platform
+Interactive training platform for a Michelin-star restaurant team.  
+Built to centralize menu knowledge, allergens, quizzes and internal certification.  
+Built with vanilla HTML, CSS and JavaScript, focused on usability and real-world constraints.
+
+🔗 Live demo: https://fvilpaz.github.io/N_Canitas/
+🔗 Repository: https://github.com/fvilpaz/N_Canitas
+
+---
 ## 🎯 My Profile
 
 - 🛫 Emigrated alone at 19 — resilience, independence, and strong work ethic. 
@@ -66,10 +77,12 @@ After more than 20 years in the hospitality industry, I made a bold decision to 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fvilpaz&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvilpaz&layout=compact&theme=radical&hide_langs_below=1)
+- Daily coding practice through the 42 Málaga curriculum
+- Projects focused on C, system programming and problem-solving
+- Hands-on learning: building, breaking, and fixing real code
+
 
 ---
 
