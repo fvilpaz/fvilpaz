@@ -68,8 +68,8 @@ After more than 20 years in the hospitality industry, I made a bold decision to 
 
 ## 📊 GitHub Stats
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fvilpaz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvilpaz&layout=compact&theme=radical)
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fvilpaz&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvilpaz&layout=compact&theme=radical&hide_langs_below=1)
 
 ---
 
