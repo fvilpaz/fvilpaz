@@ -4,7 +4,7 @@ import imageio
 
 # Configuración
 width, height = 600, 200 
-chars = "ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄ0123456789ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿ42ABCDEFGH"
+chars = "ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄ0123456789ｱｲｳｴｵｶｷｸｹｺ"
 font_size = 14
 frames = 30 
 background_color = (0, 0, 0)
