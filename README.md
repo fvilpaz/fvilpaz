@@ -1,6 +1,6 @@
 <!-- Matrix-style banner -->
 <p align="center">
-  <img src="assets/matrix_effect_v2.gif" width="1000"/>
+  <img src="assets/matrix_effect.gif" width="1000"/>
 </p>
 
 <!-- Typing effect banner -->
