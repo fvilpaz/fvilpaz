@@ -66,9 +66,9 @@ I wouldn't be here without the guidance of world-class educators and the communi
 - ✅ **libft** – C standard library functions built from scratch.
 - ✅ **ft_printf** – Custom printf using variadic functions & format parsing.
 - ✅ **get_next_line** – Efficient file reader using static buffers.
+- ✅ **mini_talk** – Client-server communication using UNIX signals.
+- ✅ **push_swap** – Stack-based sorting with optimized instructions.
 - 🚧 **so_long** – 2D game: map parsing, enemy movement, flood fill.
-- 🚧 **mini_talk** – Client-server communication using UNIX signals.
-- 🚧 **push_swap** – Stack-based sorting with optimized instructions.
 
 ---
 
