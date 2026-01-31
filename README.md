@@ -50,16 +50,40 @@ I wouldn't be here without the guidance of world-class educators and the communi
 
 ---
 
-## 💻 Currently Learning
+## 💻 Currently Learning & Career Path
 
-- C programming (memory management, pointers, Makefiles, system calls)
-- Bash scripting and automation
-- Git & GitHub workflows
-- Linux system administration (UFW, SSH, auditd, cron)
-- Cybersecurity basics and system hardening
+- 🏫 **42 Málaga — Core Curriculum (Full-time)**
+    <br>▸ Deep dive into low-level programming and system fundamentals through project-based learning.
+    <br>▸ C Programming: Memory management, pointers, Makefiles, and system calls.
+    <br>▸ Systems & Automation: Bash scripting, Linux administration (UFW, SSH, auditd, cron).
+    <br>▸ Security: Cybersecurity fundamentals and system hardening.
+    <br>▸ Methodology: Daily peer-to-peer learning focused on problem-solving, autonomy, and clean code.
+  
+  ⚡︎
+- 🎓 **CS50 — Harvard University (Computer Science Foundations)**
+    <br>▸ Solid foundations in computer science and computational thinking.
+    <br>▸ Core topics: Algorithms, data structures, memory, abstraction, and problem-solving.
+    <br>▸ Languages & tools: C, Python, SQL, HTML, CSS, JavaScript.
+    <br>▸ Strong emphasis on understanding how computers work under the hood.
 
----
+  ⚡︎
+- 🚀 **MoureDev Pro — Structured Learning Path**
+    <br>▸ Following a comprehensive roadmap to master modern development and backend logic.
+    <br>▸ Languages: Java (OOP), Python (Beginner → Intermediate), and JavaScript.
+    <br>▸ Logic & Data: Programming logic, SQL, and database management.
+    <br>▸ Advanced: Backend development with Python and advanced Git/GitHub workflows.
+    <br>▸ Soft Skills: Meta-learning (how to study programming) and terminal mastery.
 
+  ⚡︎
+- 🌐 **Official Web Development Training (Scheduled for Feb 2026)**
+    <br>▸ Professional Certification (IFCD0110) focused on industry-standard web technologies.
+    <br>▸ MF0950_2: Web Page Construction (210h).
+    <br>▸ MF0951_2: Software Component Integration in Web Pages (180h).
+    <br>▸ MF0952_2: Web Page Publishing (90h).
+    <br>▸ MP0278: Non-labor Professional Internship (80h).
+  
+  ---
+  
 ## 🔨 Projects & Challenges
 
 - ✅ **Born2BeRoot** – Hardened Linux VM: auditd, firewall (UFW), secure sudoers.
@@ -69,19 +93,27 @@ I wouldn't be here without the guidance of world-class educators and the communi
 - ✅ **mini_talk** – Client-server communication using UNIX signals.
 - ✅ **push_swap** – Stack-based sorting with optimized instructions.
 - 🚧 **so_long** – 2D game: map parsing, enemy movement, flood fill.
+- 🕳️ Black Hole approaching… currently fighting it with clean code, sleep deprivation and pure willpower.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**  
+**Systems & Low Level**<br>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Environment & Dev**  
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+**Development & Databases (MoureDev Pro Path)**<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Environment**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![42 Málaga](https://img.shields.io/badge/42_Málaga-000000?style=for-the-badge&logo=42&logoColor=white)
 
 ---
