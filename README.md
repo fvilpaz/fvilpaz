@@ -21,7 +21,7 @@ After more than 20 years in the hospitality industry, I made a bold decision to 
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
 ### 👨‍🍳 Cañitas Maite · Interactive Training Platform
 Interactive training platform for a Michelin-star restaurant team.  
@@ -30,6 +30,16 @@ Built with vanilla HTML, CSS and JavaScript, focused on usability and real-world
 
 - 🍽️ **[View Live demo](https://fvilpaz.github.io/N_Canitas/)**
 - 📦 **[Check Code](https://github.com/fvilpaz/N_Canitas)**
+
+---
+
+### 🚗 Redondela Automoción · Business Solutions Platform
+Professional digital presence and service management for the automotive industry.  
+Designed for customer conversion, appointment scheduling, and technical service catalog.  
+Built with a focus on responsive performance and seamless user experience.
+
+- 🛠️ **[View Live demo](https://fvilpaz.github.io/redondela-automocion/)**
+- 📦 **[Check Code](https://github.com/fvilpaz/redondela-automocion)**
 
 ---
 ## 💡 Inspirations & Mentors
