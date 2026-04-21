@@ -14,7 +14,7 @@
 </p>
 
 # **Fernando Vilas Paz**
-After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I trained at 42 Málaga, completed CS50 Harvard, and I'm now a co-founder and Full Stack Developer at [Q·REAS Tech](https://qreas.tech) — building real tools for real businesses.
+After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I trained at 42 Málaga,currently studying CS50 Harvard, and I'm now a co-founder and Full Stack Developer at [Q·REAS Tech](https://qreas.tech) — building real tools for real businesses.
 
 > _"Sometimes you win, other times you learn."_
 > I believe in learning by doing — failing fast and improving faster.
@@ -103,7 +103,7 @@ I wouldn't be here without the guidance of world-class educators and the communi
   ⚡︎
 - 🌐 **Official Web Development Certification — IFCD0110**
     <br>▸ MF0950_2: Web Page Construction (210h) — ✅ Completed.
-    <br>▸ MF0951_2: Software Component Integration (180h) — ✅ Completed · Grade: 10/10.
+    <br>▸ MF0951_2: Software Component Integration (180h) — ✅ Completed.
     <br>▸ MF0952_2: Web Page Publishing (90h) — 🚧 In progress · Final stretch.
     <br>▸ MP0278: Non-labor Professional Internship (80h) — Upcoming.
 
@@ -113,7 +113,7 @@ I wouldn't be here without the guidance of world-class educators and the communi
     <br>▸ C Programming: Memory management, pointers, Makefiles, and system calls.
     <br>▸ Systems & Automation: Bash scripting, Linux administration (UFW, SSH, auditd, cron).
     <br>▸ Security: Cybersecurity fundamentals and system hardening.
-    <br>▸ The Black Hole tried. I kept going. 🕳️
+    <br>▸ Black Hole caught up 🕳️, kept going. I transitioned from the campus to the real world, co-founding a startup and continuing my education independently. 🚀
 
   ⚡︎
 - 🎓 **CS50 — Harvard University (Computer Science Foundations)**
