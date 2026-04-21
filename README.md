@@ -28,14 +28,14 @@ ERP, automation and internal tools for the hospitality industry.
 Built with a multidisciplinary team: CEO, CTO, senior architect and infrastructure specialist.
 Developing lightweight apps and web interfaces that solve real operational problems.
 
-- 🌐 **[Visit Q·REAS Tech](https://qreasteam.com)**
 - 👤 **[Meet the team](https://qreasteam.com/equipo)**
 
 ---
 
 ### 🏖️ AuryApp · Beach Club Management App
-Full Django web app for managing a real beach club: spaces, staff, daily tasks and scheduling.
-Deployed on Render with a six-theme design system and FullCalendar.js integration.
+Full Django web app built for a real beach club in active use: shift planning,
+event management with visual floor plans, staff scheduling, daily task checklists,
+voice notes, and a six-theme design system. Deployed on Render.
 
 - 📦 **[Check Code](https://github.com/fvilpaz/auryapp)**
 - 📄 **[README técnico](https://github.com/fvilpaz/auryapp#readme)**
@@ -44,7 +44,10 @@ Deployed on Render with a six-theme design system and FullCalendar.js integratio
 ---
 
 ### 🍷 SoMeliaR · Wine Inventory & Stock Control
-Intelligent wine cellar management system with real-time stock alerts, nightly sales deductions and supplier management.
+Django web app for hotel wine cellar management: real-time stock alerts,
+supplier orders via email, AI-powered restock analysis (Google Gemini),
+sommelier notes with voice dictation, and Excel bulk import.
+Built for Meliá Hotels International.
 
 - 📦 **[Check Code](https://github.com/fvilpaz/SoMeliaR)**
 - 📄 **[README técnico](https://github.com/fvilpaz/SoMeliaR#readme)**
@@ -97,37 +100,32 @@ I wouldn't be here without the guidance of world-class educators and the communi
     <br>▸ Building ERP modules, internal tools and web interfaces for the hospitality sector.
     <br>▸ Stack: Python, Django, JavaScript, HTML/CSS.
     <br>▸ Working alongside a senior architect (MSc) and a multidisciplinary team.
-    <br>▸ Real product. Real users. Real deadlines.
+    <br>▸ Real product. Real users. Real deadlines. <br><br>
 
-  ⚡︎
-- 🌐 **Official Web Development Certification — IFCD0110**
+- 🌐 **Official Web Development Certification — IFCD0110** 
     <br>▸ MF0950_2: Web Page Construction (210h) — ✅ Completed.
     <br>▸ MF0951_2: Software Component Integration (180h) — ✅ Completed.
     <br>▸ MF0952_2: Web Page Publishing (90h) — 🚧 In progress · Final stretch.
-    <br>▸ MP0278: Non-labor Professional Internship (80h) — Upcoming.
+    <br>▸ MP0278: Non-labor Professional Internship (80h) — Upcoming. <br><br>
 
-  ⚡︎
-- 🏫 **42 Málaga — Core Curriculum**
+- 🏫 **42 Málaga — Core Curriculum** ⚡︎
     <br>▸ Low-level programming and system fundamentals through project-based learning.
     <br>▸ C Programming: Memory management, pointers, Makefiles, and system calls.
     <br>▸ Systems & Automation: Bash scripting, Linux administration (UFW, SSH, auditd, cron).
-    <br>▸ Security: Cybersecurity fundamentals and system hardening.
-    <br>▸ Black Hole caught up 🕳️, kept going. I transitioned from the campus to the real world, co-founding a startup and continuing my education independently. 🚀
+    <br>▸ Security: Cybersecurity fundamentals and system hardening. <br><br>
 
-  ⚡︎
-- 🎓 **CS50 — Harvard University (Computer Science Foundations)**
+- 🎓 **CS50 — Harvard University (Computer Science Foundations)** 
     <br>▸ Solid foundations in computer science and computational thinking.
     <br>▸ Core topics: Algorithms, data structures, memory, abstraction, and problem-solving.
     <br>▸ Languages & tools: C, Python, SQL, HTML, CSS, JavaScript.
-    <br>▸ Strong emphasis on understanding how computers work under the hood.
+    <br>▸ Strong emphasis on understanding how computers work under the hood. <br><br>
 
-  ⚡︎
 - 🚀 **MoureDev Pro — Structured Learning Path**
     <br>▸ Following a comprehensive roadmap to master modern development and backend logic.
     <br>▸ Languages: Java (OOP), Python (Beginner → Intermediate), and JavaScript.
     <br>▸ Logic & Data: Programming logic, SQL, and database management.
     <br>▸ Advanced: Backend development with Python and advanced Git/GitHub workflows.
-    <br>▸ Soft Skills: Meta-learning (how to study programming) and terminal mastery.
+    <br>▸ Soft Skills: Meta-learning (how to study programming) and terminal mastery. <br><br>
 
 ---
   
@@ -140,7 +138,7 @@ I wouldn't be here without the guidance of world-class educators and the communi
 - ✅ **mini_talk** – Client-server communication using UNIX signals.
 - ✅ **push_swap** – Stack-based sorting with optimized instructions.
 - 🚧 **so_long** – 2D game: map parsing, enemy movement, flood fill.
-- 🕳️ Black Hole tried. Still here. Still coding. Still winning.
+- 🕳️ **Black Hole caught up** - I left the campus, co-founded a startup, and kept building. The learning never stopped.
 
 ---
 
@@ -182,10 +180,11 @@ I wouldn't be here without the guidance of world-class educators and the communi
 
 ## 🤝 Looking to Collaborate On
 
-- Real-world tools for hospitality and SMEs
+- Real-world tools that solve real problems
 - Django / Python backend projects
+- ERP modules, automation and business logic
 - Shell scripting, system automation, and C-based tools
-- Anything that helps me sharpen my skills while learning from others
+- Anything that helps me grow as a developer
 
 ---
 
