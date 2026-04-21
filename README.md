@@ -45,7 +45,6 @@ Deployed on Render with a six-theme design system and FullCalendar.js integratio
 
 ### 🍷 SoMeliaR · Wine Inventory & Stock Control
 Intelligent wine cellar management system with real-time stock alerts, nightly sales deductions and supplier management.
-Built with Django from a mobile environment (Termux on Android).
 
 - 📦 **[Check Code](https://github.com/fvilpaz/SoMeliaR)**
 - 📄 **[README técnico](https://github.com/fvilpaz/SoMeliaR#readme)**
