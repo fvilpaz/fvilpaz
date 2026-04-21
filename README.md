@@ -14,7 +14,7 @@
 </p>
 
 # **Fernando Vilas Paz**
-After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I trained at 42 Málaga,currently studying CS50 Harvard, and I'm now a co-founder and Full Stack Developer at [Q·REAS Tech](https://qreas.tech) — building real tools for real businesses.
+After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I trained at 42 Málaga,currently studying CS50 Harvard, and I'm now a co-founder and Full Stack Developer at [Q·REAS Tech](https://qreasteam.com) - building real tools for real businesses.
 
 > _"Sometimes you win, other times you learn."_
 > I believe in learning by doing — failing fast and improving faster.
