@@ -37,9 +37,8 @@ Full Django web app built for a real beach club in active use: shift planning,
 event management with visual floor plans, staff scheduling, daily task checklists,
 voice notes, and a six-theme design system. Deployed on Render.
 
-- 📦 **[Check Code](https://github.com/fvilpaz/auryapp)**
-- 📄 **[README técnico](https://github.com/fvilpaz/auryapp#readme)** **(es)**
-- 📘 **[User Manual](https://github.com/fvilpaz/auryapp/blob/main/MANUAL.md)** **(es)**
+- 📄 **[README](https://github.com/fvilpaz/auryapp#readme)**
+- 📘 **[User Manual](https://github.com/fvilpaz/auryapp/blob/main/MANUAL.md)**
 
 ---
 
@@ -49,9 +48,8 @@ supplier orders via email, AI-powered restock analysis (Google Gemini),
 sommelier notes with voice dictation, and Excel bulk import.
 Built for Meliá Hotels International.
 
-- 📦 **[Check Code](https://github.com/fvilpaz/SoMeliaR)**
-- 📄 **[README técnico](https://github.com/fvilpaz/SoMeliaR#readme)** **(es)**
-- 📘 **[User Manual](https://github.com/fvilpaz/SoMeliaR/blob/main/MANUAL.md)** **(es)**
+- 📄 **[README](https://github.com/fvilpaz/SoMeliaR#readme)**
+- 📘 **[User Manual](https://github.com/fvilpaz/SoMeliaR/blob/main/MANUAL.md)**
 
 ---
 
@@ -60,8 +58,8 @@ Interactive training platform for a Michelin-star restaurant team.
 Built to centralize menu knowledge, allergens, quizzes and internal certification.  
 Built with vanilla HTML, CSS and JavaScript, focused on usability and real-world constraints.
 
+- 📄 **[README](https://github.com/fvilpaz/N_Canitas#readme)**
 - 🍽️ **[View Live demo](https://fvilpaz.github.io/N_Canitas/)**
-- 📦 **[Check Code](https://github.com/fvilpaz/N_Canitas)**
 
 ---
 
@@ -70,8 +68,8 @@ Professional digital presence and service management for the automotive industry
 Designed for customer conversion, appointment scheduling, and technical service catalog.  
 Built with a focus on responsive performance and seamless user experience.
 
+- 📄 **[README](https://github.com/fvilpaz/redondela-automocion#readme)**
 - 🛠️ **[View Live demo](https://fvilpaz.github.io/redondela-automocion/)**
-- 📦 **[Check Code](https://github.com/fvilpaz/redondela-automocion)**
 
 ---
 
