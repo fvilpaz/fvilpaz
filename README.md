@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/fvilpaz">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&color=58A6FF&center=true&vCenter=true&width=1000&duration=3500&pause=2000&repeat=true&lines=%F0%9F%91%8B+%22HELLO%2C+WORLD!%22;IT%27S+ME%2C+JUST+REBORN...%F0%9F%94%A5;FROM+HOSPITALITY+TO+TECH;%F0%9F%A7%A0+CODING+MY+FUTURE,+REBOOTING+MY+STORY!!;BLACK+HOLE+TRIED.+I%27M+STILL+HERE.+%F0%9F%95%B3%EF%B8%8F"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&color=58A6FF&center=true&vCenter=true&width=1200&duration=3200&pause=1200&repeat=true&lines=%F0%9F%91%8B+%22HELLO%2C+WORLD!%22;IT%27S+ME%2C+JUST+REBORN...%F0%9F%94%A5;FROM+HOSPITALITY+TO+TECH;%F0%9F%A7%A0+CODING+MY+FUTURE,+REBOOTING+MY+STORY!!;BLACK+HOLE+HIT.+STARTUP+LAUNCHED.+%F0%9F%9A%80"
       alt="Fernando Vilas Paz"
     />
   </a>
@@ -38,8 +38,8 @@ event management with visual floor plans, staff scheduling, daily task checklist
 voice notes, and a six-theme design system. Deployed on Render.
 
 - 📦 **[Check Code](https://github.com/fvilpaz/auryapp)**
-- 📄 **[README técnico](https://github.com/fvilpaz/auryapp#readme)**
-- 📘 **[Manual de uso](https://github.com/fvilpaz/auryapp/blob/main/MANUAL.md)**
+- 📄 **[README técnico](https://github.com/fvilpaz/auryapp#readme)** **(es)**
+- 📘 **[User Manual](https://github.com/fvilpaz/auryapp/blob/main/MANUAL.md)** **(es)**
 
 ---
 
@@ -50,8 +50,8 @@ sommelier notes with voice dictation, and Excel bulk import.
 Built for Meliá Hotels International.
 
 - 📦 **[Check Code](https://github.com/fvilpaz/SoMeliaR)**
-- 📄 **[README técnico](https://github.com/fvilpaz/SoMeliaR#readme)**
-- 📘 **[Manual de uso](https://github.com/fvilpaz/SoMeliaR/blob/main/MANUAL.md)**
+- 📄 **[README técnico](https://github.com/fvilpaz/SoMeliaR#readme)** **(es)**
+- 📘 **[User Manual](https://github.com/fvilpaz/SoMeliaR/blob/main/MANUAL.md)** **(es)**
 
 ---
 
@@ -156,10 +156,8 @@ I wouldn't be here without the guidance of world-class educators and the communi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 **Tools & Environment**<br>
