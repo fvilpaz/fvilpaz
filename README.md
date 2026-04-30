@@ -76,10 +76,11 @@ Built with a focus on responsive performance and seamless user experience.
 ## 💡 Inspirations & Mentors
 
 I wouldn't be here without the guidance of world-class educators and the community:
+
 - 🎓 **[David J. Malan:](https://cs.harvard.edu/malan/)** For the foundations of CS50 Harvard.
-- 🧠 **[Oceano:](https://www.youtube.com/@onaecO)** For the deep-dives into 42's logic and [system mindset].
 - 👨‍💻 **[Mouredev:](https://moure.dev/)** For practical tutorials and guidance on web development and programming.
 - 👥 **[42 Community:](https://www.42malaga.com/)** For teaching me that the best way to learn is to help others.
+- 🧠 **[Oceano:](https://www.youtube.com/@onaecO)** For the deep-dives into 42's logic and [system mindset].
 
 ---
 
