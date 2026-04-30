@@ -35,7 +35,7 @@ Developing lightweight apps and web interfaces that solve real operational probl
 ### 🏖️ AuryApp · Beach Club Management App
 Full Django web app built for a real beach club in active use: shift planning,
 event management with visual floor plans, staff scheduling, daily task checklists,
-voice notes, and a six-theme design system. Deployed on Render.
+voice notes, and a six-theme design system. Deployed on Google Cloud Run with Neon PostgreSQL.
 
 - 📄 **[README](https://github.com/fvilpaz/auryapp#readme)**
 - 📘 **[User Manual](https://github.com/fvilpaz/auryapp/blob/main/MANUAL.md)**
