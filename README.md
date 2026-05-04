@@ -14,7 +14,7 @@
 </p>
 
 # **Fernando Vilas Paz**
-After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I trained at 42 Málaga,currently studying CS50 Harvard, and I'm now a co-founder and Full Stack Developer at [Q·REAS Tech](https://qreasteam.com) - building real tools for real businesses.
+After more than 20 years in the hospitality industry, I made a bold decision to completely change my life and dive headfirst into the world of programming. I trained at 42 Málaga,currently studying CS50 Harvard, and I'm now a co-founder and Full Stack Developer <!-- at [Q·REAS Tech](https://qreasteam.com) --> building real tools for real businesses.
 
 > _"Sometimes you win, other times you learn."_
 > I believe in learning by doing — failing fast and improving faster.
@@ -23,12 +23,19 @@ After more than 20 years in the hospitality industry, I made a bold decision to 
 
 ## ⭐ Featured Projects
 
-### 🏢 Q·REAS Tech · Co-founder & Full Stack Developer
+<!--### 🏢 Q·REAS Tech · Co-founder & Full Stack Developer
 ERP, automation and internal tools for the hospitality industry.
 Built with a multidisciplinary team: CEO, CTO, senior architect and infrastructure specialist.
 Developing lightweight apps and web interfaces that solve real operational problems.
 
-- 👤 **[Meet the team](https://qreasteam.com/equipo)**
+- 👤 **[Meet the team](https://qreasteam.com/equipo)** -->
+
+### 🚀 Freelancer · Full Stack Developer
+Developing custom solutions and automation tools to streamline operational processes.
+
+- 🛠️ **Stack:** React, Node.js, API integrations, and database management.
+- 📈 **Focus:** Building lightweight, efficient applications centered on user experience.
+- 🌐 **Availability:** Open to international projects and remote collaborations.
 
 ---
 
