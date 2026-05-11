@@ -38,6 +38,23 @@ Developing custom solutions and automation tools to streamline operational proce
 - 🌐 **Availability:** Open to international projects and remote collaborations.
 
 ---
+### 🧠 CS50 Trainer · AI-Powered Learning Environment
+A custom-built pedagogical framework to master Computer Science fundamentals.
+Designed as an intelligent local tutoring system that links with my Obsidian vault via JSON/Markdown.
+Forces mastery through Socratic coaching, automated debugging modes, and strict validation gates.
+
+- 📄 **[README](https://github.com/fvilpaz/cs50_trainer#readme)**
+
+---
+
+### ☄️ Gemini The Cosmic Runner · AI-Integrated Game
+An interactive countdown game built and deployed using Google Cloud Run and the Gemini AI API.
+Showcases modern serverless deployment, prompt engineering, and real-time AI integration in a gamified environment.
+
+- 📄 **[README](https://github.com/fvilpaz/cosmic-gemini-vibe#readme)**
+- 🎮 **[Play the Game](https://gemini-the-cosmic-runner-225901143372.europe-west2.run.app/)**
+
+---
 
 ### 🏖️ AuryApp · Beach Club Management App
 Full Django web app built for a real beach club in active use: shift planning,
