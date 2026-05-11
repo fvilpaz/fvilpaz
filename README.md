@@ -38,13 +38,15 @@ Developing custom solutions and automation tools to streamline operational proce
 - 🌐 **Availability:** Open to international projects and remote collaborations.
 
 ---
-### 🧠 CS50 Trainer · AI-Powered Learning Environment
-A custom-built pedagogical framework to master Computer Science fundamentals.
-Designed as an intelligent local tutoring system that links with my Obsidian vault via JSON/Markdown.
-Forces mastery through Socratic coaching, automated debugging modes, and strict validation gates.
+### 🧠 MasterMind · AI-Powered Learning Environment
+A personal knowledge system and AI trainer built around an Obsidian vault.
+Combines a Flask web app with Claude/Gemini APIs to deliver Socratic coaching
+across multiple learning tracks (CS50, MoureDev, Google, Bash).
 
-- 📄 **[README](https://github.com/fvilpaz/cs50_trainer#readme)**
+Forces mastery through guided reasoning, Pomodoro-structured sessions,
+strict validation gates, and persistent session logs synced via Git.
 
+- 📄 **[README](https://github.com/fvilpaz/MasterMind#readme)**
 ---
 
 ### ☄️ Gemini The Cosmic Runner · AI-Integrated Game
