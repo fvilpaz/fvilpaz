@@ -19,6 +19,8 @@ After more than 20 years in the hospitality industry, I made a bold decision to 
 > _"Sometimes you win, other times you learn."_
 > I believe in learning by doing — failing fast and improving faster.
 
+📄 **[View my CV](https://fvilpaz.github.io/cv/)**
+
 ---
 
 ## ⭐ Featured Projects
@@ -217,5 +219,6 @@ I wouldn't be here without the guidance of world-class educators and the communi
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernando-vilas-paz-1626901a9)
 - 📧 fvilpaz@gmail.com
+- 📄 [CV](https://fvilpaz.github.io/cv/)
 
 ---
