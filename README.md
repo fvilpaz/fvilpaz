@@ -123,38 +123,27 @@ I wouldn't be here without the guidance of world-class educators and the communi
 
 ---
 
-## 💻 Currently Learning & Career Path
+## 💼 Experience
 
-- 🏢 **Q·REAS Tech — Co-founder & Full Stack Developer**
-    <br>▸ Building ERP modules, internal tools and web interfaces for the hospitality sector.
-    <br>▸ Stack: Python, Django, JavaScript, HTML/CSS.
-    <br>▸ Working alongside a senior architect (MSc) and a multidisciplinary team.
-    <br>▸ Real product. Real users. Real deadlines. <br><br>
+<!-- Q·REAS Tech · Co-founder & Full Stack Developer
+     ERP, automation and internal tools for the hospitality industry.
+     Stack: Python, Django, JavaScript, HTML/CSS.
+     Real product · Real users · Real deadlines. -->
 
-- 🌐 **Official Web Development Certification — IFCD0110** 
-    <br>▸ MF0950_2: Web Page Construction (210h) — ✅ Completed.
-    <br>▸ MF0951_2: Software Component Integration (180h) — ✅ Completed.
-    <br>▸ MF0952_2: Web Page Publishing (90h) — 🚧 In progress · Final stretch.
-    <br>▸ MP0278: Non-labor Professional Internship (80h) — Upcoming. <br><br>
+### 🚀 Freelancer · Full Stack Developer
+Building custom tools and automation for real clients and real operational problems.
+- Stack: Python, Django, React, Node.js, API integrations
+- Focus: lightweight apps that solve actual business pain points
+- Open to remote and international projects
 
-- 🏫 **42 Málaga — Core Curriculum** ⚡︎
-    <br>▸ Low-level programming and system fundamentals through project-based learning.
-    <br>▸ C Programming: Memory management, pointers, Makefiles, and system calls.
-    <br>▸ Systems & Automation: Bash scripting, Linux administration (UFW, SSH, auditd, cron).
-    <br>▸ Security: Cybersecurity fundamentals and system hardening. <br><br>
+---
 
-- 🎓 **CS50 — Harvard University (Computer Science Foundations)** 
-    <br>▸ Solid foundations in computer science and computational thinking.
-    <br>▸ Core topics: Algorithms, data structures, memory, abstraction, and problem-solving.
-    <br>▸ Languages & tools: C, Python, SQL, HTML, CSS, JavaScript.
-    <br>▸ Strong emphasis on understanding how computers work under the hood. <br><br>
+## 📚 Formation
 
-- 🚀 **MoureDev Pro — Structured Learning Path**
-    <br>▸ Following a comprehensive roadmap to master modern development and backend logic.
-    <br>▸ Languages: Java (OOP), Python (Beginner → Intermediate), and JavaScript.
-    <br>▸ Logic & Data: Programming logic, SQL, and database management.
-    <br>▸ Advanced: Backend development with Python and advanced Git/GitHub workflows.
-    <br>▸ Soft Skills: Meta-learning (how to study programming) and terminal mastery. <br><br>
+- 🏫 **42 Málaga** — Low-level programming, C, systems, security and peer-based learning
+- 🎓 **CS50 Harvard** — Computer science foundations: algorithms, memory, data structures
+- 🌐 **IFCD0110 Web Development Certification** — 🚧 In progress · Final stretch
+- 🚀 **MoureDev Pro** — Full stack roadmap: Python, Java, SQL and backend development
 
 ---
   
