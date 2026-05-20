@@ -10,7 +10,7 @@ GAP = 3
 STEP = CELL + GAP  # 15px per cell
 PADDING_X = 30
 PADDING_Y = 40
-SCAN_COLS = 5       # width of scanner in columns
+SCAN_COLS = 3       # width of scanner in columns
 DURATION = "3.5s"
 
 
@@ -49,11 +49,11 @@ def fetch_contributions():
 
 
 def base_color(count):
-    if count == 0:  return "#111118"
-    if count <= 3:  return "#1a2030"
-    if count <= 6:  return "#222840"
-    if count <= 9:  return "#2a3050"
-    return "#303860"
+    if count == 0:  return "#1c1c2a"
+    if count <= 3:  return "#2a3448"
+    if count <= 6:  return "#344060"
+    if count <= 9:  return "#3e4e78"
+    return "#485a90"
 
 
 def lit_color(count):
