@@ -140,10 +140,10 @@ Building custom tools and automation for real clients and real operational probl
 
 ## 📚 Formation
 
-- 🏫 **42 Málaga** — Low-level programming, C, systems, security and peer-based learning
-- 🎓 **CS50 Harvard** — Computer science foundations: algorithms, memory, data structures
+- 🏫 **42 Málaga** — ✅ 2nd circle completed · C, systems, security and peer-based learning · Left to co-found a startup
+- 🎓 **CS50 Harvard** — 🚧 In progress · Computer science foundations: algorithms, memory, data structures
 - 🌐 **IFCD0110 Web Development Certification** — 🚧 In progress · Final stretch
-- 🚀 **MoureDev Pro** — Full stack roadmap: Python, Java, SQL and backend development
+- 🚀 **MoureDev Pro** — 🚧 In progress · Full stack roadmap: Python, Java, SQL and backend development
 
 ---
   
