@@ -197,18 +197,6 @@ I wouldn't be here without the guidance of world-class educators and the communi
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="assets/commit-raider.svg" width="830" alt="Commit Raider"/>
-</p>
-
-<p align="center">
-  <sub>🔴 <strong>Commit Raider</strong> · 52 weeks of real contributions · updated daily</sub>
-</p>
-
----
-
 ## 🤝 Looking to Collaborate On
 
 - Real-world tools that solve real problems
@@ -224,5 +212,17 @@ I wouldn't be here without the guidance of world-class educators and the communi
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernando-vilas-paz-1626901a9)
 - 📧 fvilpaz@gmail.com
 - 📄 [CV](https://fvilpaz.github.io/cv/)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="assets/commit-raider.svg" width="830" alt="Commit Raider"/>
+</p>
+
+<p align="center">
+  <sub>🔴 <strong>Commit Raider</strong> · 52 weeks of real contributions · updated daily</sub>
+</p>
 
 ---
