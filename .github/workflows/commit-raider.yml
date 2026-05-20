@@ -1,0 +1,41 @@
+name: Commit Raider
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'generate_raider.py'
+      - '.github/workflows/commit-raider.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: fvilpaz
+        run: python generate_raider.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Commit Raider"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/commit-raider.svg
+          git diff --staged --quiet || git commit -m "🔴 Commit Raider update"
+          git push

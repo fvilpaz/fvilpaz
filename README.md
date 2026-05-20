@@ -199,9 +199,13 @@ I wouldn't be here without the guidance of world-class educators and the communi
 
 ## 📊 GitHub Activity
 
-- 660+ contributions in the last year across real deployed projects
-- Daily work on Q·REAS Tech tools and personal apps
-- Building, breaking, and fixing — always shipping
+<p align="center">
+  <img src="assets/commit-raider.svg" width="830" alt="Commit Raider"/>
+</p>
+
+<p align="center">
+  <sub>🔴 <strong>Commit Raider</strong> · 52 weeks of real contributions · updated daily</sub>
+</p>
 
 ---
 
@@ -211,7 +215,7 @@ I wouldn't be here without the guidance of world-class educators and the communi
 - Django / Python backend projects
 - ERP modules, automation and business logic
 - Shell scripting, system automation, and C-based tools
-- Anything that helps me grow as a developer
+- AI-integrated tools that solve actual operational problems
 
 ---
 
