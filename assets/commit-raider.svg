@@ -17,7 +17,6 @@
   <rect width="852" height="182" fill="#0a0a0f" rx="10"/>
   <text x="30" y="32" font-family="JetBrains Mono,Courier New,monospace" font-size="9" fill="#333" letter-spacing="3">COMMIT RAIDER // fvilpaz</text>
   <g id="base">
-    <rect x="30" y="95" width="12" height="12" fill="#1c1c2a" rx="2"/>
     <rect x="30" y="110" width="12" height="12" fill="#2a3448" rx="2"/>
     <rect x="30" y="125" width="12" height="12" fill="#3e4e78" rx="2"/>
     <rect x="30" y="140" width="12" height="12" fill="#1c1c2a" rx="2"/>
@@ -382,9 +381,9 @@
     <rect x="810" y="65" width="12" height="12" fill="#1c1c2a" rx="2"/>
     <rect x="810" y="80" width="12" height="12" fill="#485a90" rx="2"/>
     <rect x="810" y="95" width="12" height="12" fill="#2a3448" rx="2"/>
+    <rect x="810" y="110" width="12" height="12" fill="#1c1c2a" rx="2"/>
   </g>
   <g id="lit" clip-path="url(#scan-clip)">
-    <rect x="30" y="95" width="12" height="12" fill="#2a0000" rx="2"/>
     <rect x="30" y="110" width="12" height="12" fill="#5a0000" rx="2"/>
     <rect x="30" y="125" width="12" height="12" fill="#aa1100" rx="2"/>
     <rect x="30" y="140" width="12" height="12" fill="#2a0000" rx="2"/>
@@ -749,6 +748,7 @@
     <rect x="810" y="65" width="12" height="12" fill="#2a0000" rx="2"/>
     <rect x="810" y="80" width="12" height="12" fill="#cc2200" rx="2"/>
     <rect x="810" y="95" width="12" height="12" fill="#5a0000" rx="2"/>
+    <rect x="810" y="110" width="12" height="12" fill="#2a0000" rx="2"/>
   </g>
   <rect x="30" y="50" width="42" height="102" fill="#ff1a00" opacity="0.18" rx="2" filter="url(#glow)">
     <animate attributeName="x" values="30;780;30" dur="3.5s" repeatCount="indefinite" calcMode="linear"/>
