@@ -40,7 +40,7 @@ Developing custom solutions and automation tools to streamline operational proce
 - 🌐 **Availability:** Open to international projects and remote collaborations.
 
 ---
-<!--### 🧠 MasterMind · AI-Powered Learning Environment
+### 🧠 MasterMind · AI-Powered Learning Environment
 A personal knowledge system and AI trainer built around an Obsidian vault.
 Combines a Flask web app with Claude/Gemini APIs to deliver Socratic coaching
 across multiple learning tracks (CS50, MoureDev, Google, Bash).
@@ -48,8 +48,8 @@ across multiple learning tracks (CS50, MoureDev, Google, Bash).
 Forces mastery through guided reasoning, Pomodoro-structured sessions,
 strict validation gates, and persistent session logs synced via Git.
 
-- 📄 **[README](https://github.com/fvilpaz/MasterMind#readme)**
-- 🌐 **[fv-mastermind.com](https://fv-mastermind.com)** -->
+<!--- 📄 **[README](https://github.com/fvilpaz/MasterMind#readme)** -->
+- 🌐 **[fv-mastermind.com](https://fv-mastermind.com)** 
 
 ---
 
