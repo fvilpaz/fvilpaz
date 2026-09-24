@@ -48,8 +48,8 @@ across multiple learning tracks (CS50, MoureDev, Google, Bash).
 Forces mastery through guided reasoning, Pomodoro-structured sessions,
 strict validation gates, and persistent session logs synced via Git.
 
-<!--- 📄 **[README](https://github.com/fvilpaz/MasterMind#readme)** -->
-- 🌐 **[fv-mastermind.com](https://fv-mastermind.com)** 
+-- 📄 **[README](https://github.com/fvilpaz/MasterMind#readme)** 
+<!--- 🌐 **[fv-mastermind.com](https://fv-mastermind.com)**-->
 
 ---
 
