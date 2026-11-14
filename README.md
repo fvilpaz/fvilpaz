@@ -82,6 +82,16 @@ Built for Meliá Hotels International.
 
 ---
 
+### 🚆 Nextren · C-1 Train Timetable (PWA)
+Timetable for the Málaga–Fuengirola commuter line (C-1): pick any origin and destination among the 17 stops
+and see when the next train leaves, when it arrives and how long the trip takes.  
+Installable PWA that works offline, built with vanilla HTML, CSS and JavaScript and no server.
+
+- 📄 **[Source code](https://github.com/fvilpaz/nextren)**
+- 🚆 **[Open the app](https://fvilpaz.github.io/nextren/)**
+
+---
+
 ### 👨‍🍳 Cañitas Maite · Interactive Training Platform
 Interactive training platform for a Michelin-star restaurant team.  
 Built to centralize menu knowledge, allergens, quizzes and internal certification.  
